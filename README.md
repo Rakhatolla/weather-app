@@ -62,8 +62,7 @@ request
 You must add your own OpenWeatherMap API key. Without it, the app won’t fetch weather data.
 
 # 📸 Example Output
-makefile
-
+<video src="video.mp4" controls width="600"></video>
 London: 15°C, scattered clouds
 
 # 📝 License
