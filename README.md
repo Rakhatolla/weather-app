@@ -62,7 +62,29 @@ http://localhost:3000
 You must add your own OpenWeatherMap API key. Without it, the app won’t fetch weather data.
 
  📸 Example Output
+
+
+
+
+
+
+
+
+
+
+ 
 ![Demo](videogif.gif)
+
+
+
+
+
+
+
+
+
+
+
 London: 15°C, scattered clouds
 
  📝 License
