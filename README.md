@@ -53,19 +53,19 @@ arduino
 http://localhost:3000
 
 # 📦 Dependencies
-express
-body-parser
-ejs
-request
+ express
+ body-parser
+ ejs
+ request
 
-# 🔑 API Key
+ 🔑 API Key
 You must add your own OpenWeatherMap API key. Without it, the app won’t fetch weather data.
 
-# 📸 Example Output
-<video src="video.mp4" controls width="600"></video>
+ 📸 Example Output
+![Demo](videogif.gif)
 London: 15°C, scattered clouds
 
-# 📝 License
+ 📝 License
 Open source under the MIT License.
 
 
