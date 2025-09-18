@@ -58,15 +58,15 @@ body-parser
 ejs
 request
 
-#🔑 API Key
+# 🔑 API Key
 You must add your own OpenWeatherMap API key. Without it, the app won’t fetch weather data.
 
-#📸 Example Output
+# 📸 Example Output
 makefile
 
 London: 15°C, scattered clouds
 
-#📝 License
+# 📝 License
 Open source under the MIT License.
 
 
